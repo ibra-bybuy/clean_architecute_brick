@@ -23,4 +23,4 @@ clean_code:
 
 2. Fetch added library with: mason get
 
-2. Generate folder & file structure using: mason make clean_code
+3. Generate folder & file structure using: mason make clean_code

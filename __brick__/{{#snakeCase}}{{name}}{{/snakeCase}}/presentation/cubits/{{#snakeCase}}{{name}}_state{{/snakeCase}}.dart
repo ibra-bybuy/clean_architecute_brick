@@ -1,4 +1,4 @@
-part of 'auth_cubit.dart';
+import 'package:equatable/equatable.dart';
 
 abstract class {{#pascalCase}}{{name}} state {{/pascalCase}} extends Equatable {
   const {{#pascalCase}}{{name}} state {{/pascalCase}}();

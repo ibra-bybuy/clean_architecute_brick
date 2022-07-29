@@ -12,7 +12,7 @@ class _{{#pascalCase}}{{name}} screen {{/pascalCase}}State extends State<{{#pasc
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("{{name}}")
+        title: const Text("{{name}}")
       ),
       body: const SizedBox(),
     );

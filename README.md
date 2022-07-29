@@ -21,4 +21,6 @@ clean_code:
       url: https://github.com/ibra-bybuy/clean_architecute_brick.git
 ```
 
+2. Fetch added library with: mason get
+
 2. Generate folder & file structure using: mason make clean_code
